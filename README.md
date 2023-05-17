@@ -1,6 +1,8 @@
 # Spend/Taxonomy QA Automation
 This R Shiny app created by Bruce Xu from Solution Architect team, automating the quality assurance process for spend/taxonomy data. This app allows you to compare spend/taxonomy match rate between P1 and SFTP.
 
+<img src="https://github.com/Superxujwbruce/AutomationQA/blob/main/screenshot.png">
+
 ## Features
 - Uploads spend/taxonomy file from P1 and SFTP
 - Allows user to choose desired columns for match rate testing
