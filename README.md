@@ -12,7 +12,7 @@ To run this app, you will need to have R installed on your machine. You can down
 ## Usage
 To run the app, type the following code in R: `shiny::runGitHub('AutomationQA', 'superxujwbruce')`<br>
 In this way, it will launch the app in your default web browser. From there, you can follow the on-screen instructions to compare spend/taxonomy files and view the match rate graph.
-
+<img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner">
 
 ## Contact
 If you have any questions or feedback, please contact me at bruce.xu@team.neustar
