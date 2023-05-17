@@ -7,8 +7,12 @@ This R Shiny app, created by Bruce Xu from the Solution Architect team, automate
 - Displays a graph of the match rate for each join key selected
 
 ## Installation
-To run this app, you will need to have R installed on your machine. You can download R from the R website. To run the app, type R  `shiny::runGitHub('AutomationQA', 'superxujwbruce')`.
+To run this app, you will need to have R installed on your machine. You can download R from the R website. 
 
+## Usage
+To run the app, type the following code in R:
+`shiny::runGitHub('AutomationQA', 'superxujwbruce')`
+In this way, it will launch the app in your default web browser. From there, you can follow the on-screen instructions to compare spend/taxonomy files and view the match rate graph.
 
 ## Contact
 If you have any questions or feedback, please contact me at bruce.xu@team.neustar
