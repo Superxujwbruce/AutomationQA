@@ -8,7 +8,7 @@ This R Shiny app, created by Bruce Xu from the Solution Architect team, automate
 - Displays a graph of the match rate for each join key selected
 
 ## Installation
-To run this app, you will need to have R installed on your machine. You can download R from the R website. To run the app, type R  "shiny::runGitHub('AutomationQA', 'superxujwbruce')".
+To run this app, you will need to have R installed on your machine. You can download R from the R website. To run the app, type R  `shiny::runGitHub('AutomationQA', 'superxujwbruce')`.
 
 
 ## Contact
