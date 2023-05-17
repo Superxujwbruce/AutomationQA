@@ -11,7 +11,10 @@ To run this app, you will need to have R installed on your machine. You can down
 
 ## Usage
 To run the app, type the following code in R: `shiny::runGitHub('AutomationQA', 'superxujwbruce')`<br><br>
-In this way, it will launch the app in your default web browser. From there, you can follow the on-screen instructions to compare spend/taxonomy files and view the match rate graph. Here is a screenshot of our Spend/Taxonomy QA Automation tool. As you can see below, the tool has a simple and intuitive interface that allows you to select desired columns and view the match rate graph.
+In this way, it will launch the app in your default web browser. From there, you can follow the on-screen instructions to compare spend/taxonomy files and view the match rate graph. 
+
+## UI Preview
+Here is a screenshot of our Spend/Taxonomy QA Automation tool. As you can see below, the tool has a simple and intuitive interface that allows you to select desired columns and view the match rate graph.
 <img src="https://github.com/Superxujwbruce/AutomationQA/blob/main/screenshot.png">
 
 ## Contact
